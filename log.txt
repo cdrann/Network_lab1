@@ -1,0 +1,74 @@
+сент. 23, 2020 12:50:02 PM ru.nsu.fit.cdrann.Main main
+INFO: Beginning of CopyFinder work...
+сент. 23, 2020 12:50:02 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: New host joins multicast group
+сент. 23, 2020 12:50:02 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:03 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:03 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:04 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:04 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:05 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:05 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:06 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:06 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:07 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:07 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:08 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:08 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:09 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:09 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:10 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:10 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:11 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:11 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:12 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:12 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:13 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:13 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:14 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:14 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:15 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:15 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:16 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:16 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:17 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:17 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:18 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:18 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
+сент. 23, 2020 12:50:19 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Receive timeout exception
+сент. 23, 2020 12:50:19 PM ru.nsu.fit.cdrann.CopyFinder start
+INFO: Received packet from port:51799
