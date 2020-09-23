@@ -34,17 +34,16 @@ public class CopyFinder {
             try {
                 datagramSocket.send(new DatagramPacket(Constants.MSG.getBytes(), Constants.MSG.getBytes().length,
                         multicastGroup, Constants.PORT));
-                long end = System.currentTimeMillis() + Constants.RECEIVE_TIMEOUT;
+                long endTime = System.currentTimeMillis() + Constants.RECEIVE_TIMEOUT;
 
-                while (System.currentTimeMillis() < end) {
+                while (System.currentTimeMillis() < endTime) {
                     byte[] buffer = new byte[256];
                     DatagramPacket packet = new DatagramPacket(buffer, buffer.length);
 
                     try {
                         multicastSocket.receive(packet);
-                        long packetPort = packet.getPort();
 
-                        logger.log(Level.INFO, "Received packet from port:" + packetPort);
+                        logger.log(Level.INFO, "Received packet from port:" + packet.getPort());
                     } catch (SocketTimeoutException ex) {
                         logger.log(Level.INFO, "Receive timeout exception");
                         break;
