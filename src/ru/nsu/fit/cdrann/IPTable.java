@@ -26,11 +26,11 @@ public class IPTable {
     }
 
     static void checkCurrIpTable(Logger logger) {
-        for (Map.Entry<String, Long> ip_plus_port : currIpTable.entrySet()) {
-            if (System.currentTimeMillis() - ip_plus_port.getValue() > Constants.TABLE_TIMEOUT) {
-                logger.log(Level.INFO, "Lost connection with: " + ip_plus_port.getKey());
+        for (Map.Entry<String, Long> ipAndPort : currIpTable.entrySet()) {
+            if (System.currentTimeMillis() - ipAndPort.getValue() > Constants.TABLE_TIMEOUT) {
+                logger.log(Level.INFO, "Lost connection with: " + ipAndPort.getKey());
 
-                currIpTable.remove(ip_plus_port.getKey());
+                currIpTable.remove(ipAndPort.getKey());
                 printCurrentIPTable();
             }
         }

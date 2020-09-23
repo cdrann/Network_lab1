@@ -1,7 +1,270 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="202e70f1-8500-48c0-8d36-92c7635eaff0" name="Default Changelist" comment="" />
+    <list default="true" id="202e70f1-8500-48c0-8d36-92c7635eaff0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assembler/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assembler/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assembler/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assembler/Assembler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assembler/out/production/Assembler/Assembler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assembler/program.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assembler/rom_image.mem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assembler/src/Assembler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachine/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachine/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachine/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachine/CoffeeMachine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachine/out/production/CoffeeMachine/CoffeeMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachine/src/CoffeeMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachine/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Contacts/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Contacts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Contacts/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Contacts/Contacts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Contacts/out/production/Contacts/contacts/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Contacts/out/production/Contacts/contacts/ContactsList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Contacts/out/production/Contacts/contacts/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Contacts/src/contacts/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/machine_code.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/Assembler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/Assembler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/MergeSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/src/ru/nsu/fit/redko/MergeSort/CommandLineArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/src/ru/nsu/fit/redko/MergeSort/CommandLineParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/src/ru/nsu/fit/redko/MergeSort/DataSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/src/ru/nsu/fit/redko/MergeSort/IntegerDataSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/src/ru/nsu/fit/redko/MergeSort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/src/ru/nsu/fit/redko/MergeSort/MergeSortException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/src/ru/nsu/fit/redko/MergeSort/MergeSortService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/src/ru/nsu/fit/redko/MergeSort/StringDataSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/src/ru/nsu/fit/redko/MergeSort/WrongArgException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/OPP2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/CommandFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/CommandReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/ImplContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/commands/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/commands/Define.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/commands/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/commands/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/commands/Pop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/commands/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/commands/Push.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/commands/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/commands/Subtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/core/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/core/CommandException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/core/CommandUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/core/CompileCommandException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/core/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/core/IllegalCommandArgumentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/core/IllegalOperationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/core/NoAliasException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/core/RuntimeCommandException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/core/StackUnderflowException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP2/src/core/WrongArgumentCountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectJS/.idea/ProjectJS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectJS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectJS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectJS/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0/Task0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0/out/production/Task0/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../computational_methods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../computational_methods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../computational_methods/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../computational_methods/computational_methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../computational_methods/src/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/META-INF/lab3.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/boardSettings.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/cube.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/cube0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/cube1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/cube2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/cube3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/cube4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/cube5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/cube6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/fragments.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/modeCube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/FragmentController/FactoryException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/FragmentController/FragmentFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/FragmentController/FragmentsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/FragmentController/FragmentsNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/FragmentController/RecordObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/FragmentController/fragments/I_Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/FragmentController/fragments/J_Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/FragmentController/fragments/L_Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/FragmentController/fragments/O_Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/FragmentController/fragments/S_Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/FragmentController/fragments/T_Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/FragmentController/fragments/Z_Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/GameMode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/GameProcessObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/ModelObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/ModelState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/OpenPropertiesException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/core/Block.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/core/Board.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/core/Fragment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/core/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/core/GameTimer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/core/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/model/core/RecordController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/pages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/platform_var_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/platform_var_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/platform_var_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/recordController.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/KeyboardController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/componentsSynchronizer/BehaviorObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/componentsSynchronizer/ComponentsSynchronizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/componentsSynchronizer/NotNormal_IsEntered.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/componentsSynchronizer/NotNormal_IsImitate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/mainComponents/AlphaActiveColorPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/mainComponents/AlphaActiveComponent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/mainComponents/AlphaActiveImagePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/mainComponents/BehaviorPublisher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/mainComponents/ComponentState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/mainComponents/Imitator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/ComponentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/DrownPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/endGame/CentralButtonController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/endGame/EndGamePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/endGame/RecordInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/endGame/ScoreInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/gamePage/AbsoluteRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/gamePage/CurrentScore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/gamePage/GamePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/gamePage/MainBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/gamePage/NextElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/gamePage/nextFragmentDisplay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/mainMenuPage/ExitButtonController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/mainMenuPage/MainMenuPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/pages/mainMenuPage/StartGameButtonController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/uiController/FactoryException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/uiController/OpenPropertiesException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/uiController/PageNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/uiController/PagesFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/ui/uiController/UIController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/whiteCube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/boardSettings.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/cube.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/cube0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/cube1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/cube2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/cube3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/cube4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/cube5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/cube6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/fragments.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/modeCube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/FragmentController/FactoryException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/FragmentController/FragmentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/FragmentController/FragmentsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/FragmentController/FragmentsNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/FragmentController/RecordObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/FragmentController/fragments/I_Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/FragmentController/fragments/J_Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/FragmentController/fragments/L_Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/FragmentController/fragments/O_Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/FragmentController/fragments/S_Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/FragmentController/fragments/T_Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/FragmentController/fragments/Z_Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/GameMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/GameProcessObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/ModelObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/ModelState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/OpenPropertiesException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/core/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/core/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/core/Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/core/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/core/GameTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/core/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/model/core/RecordController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/pages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/platform_var_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/platform_var_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/platform_var_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/recordController.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/KeyboardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/componentsSynchronizer/BehaviorObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/componentsSynchronizer/ComponentsSynchronizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/componentsSynchronizer/NotNormal_IsEntered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/componentsSynchronizer/NotNormal_IsImitate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/mainComponents/AlphaActiveColorPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/mainComponents/AlphaActiveComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/mainComponents/AlphaActiveImagePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/mainComponents/BehaviorPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/mainComponents/ComponentState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/mainComponents/Imitator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/ComponentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/DrownPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/endGame/CentralButtonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/endGame/EndGamePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/endGame/RecordInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/endGame/ScoreInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/gamePage/AbsoluteRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/gamePage/CurrentScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/gamePage/GamePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/gamePage/MainBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/gamePage/NextElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/gamePage/nextFragmentDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/mainMenuPage/ExitButtonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/mainMenuPage/MainMenuPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/pages/mainMenuPage/StartGameButtonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/uiController/FactoryException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/uiController/OpenPropertiesException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/uiController/PageNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/uiController/PagesFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/ui/uiController/UIController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/whiteCube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_game" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +277,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/nsu/fit/cdrann/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -38,11 +301,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/nsu/fit/cdrann/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="68">
+              <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -59,8 +322,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/nsu/fit/cdrann/CopyFinder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="20" column="54" lean-forward="true" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+            <state relative-caret-position="508">
+              <caret line="63" column="9" lean-forward="true" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,16 +352,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/ru/nsu/fit/cdrann/AddressValidator.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/fit/cdrann/Constants.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/fit/cdrann/AddressParser.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/fit/cdrann/Main.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/fit/cdrann/IPTable.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/fit/cdrann/CopyFinder.java" />
         <option value="$PROJECT_DIR$/log.properties" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/fit/cdrann/Constants.java" />
       </list>
     </option>
   </component>
@@ -115,6 +381,7 @@
     <option name="width" value="880" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -147,6 +414,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -169,7 +437,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Unnamed">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <output_file path="$PROJECT_DIR$/log.properties" />
       <log_file checked="false" alias="log.properties" path="$PROJECT_DIR$/log.properties" />
@@ -187,6 +455,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.fit.cdrann.Main" />
+      <module name="Network_lab1" />
+      <option name="PROGRAM_PARAMETERS" value="224.0.1.15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Unnamed" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -199,12 +479,12 @@
       <option name="presentableId" value="Default" />
       <updated>1600787574828</updated>
       <workItem from="1600787576095" duration="6122000" />
-      <workItem from="1600834516375" duration="4743000" />
+      <workItem from="1600834516375" duration="6059000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10865000" />
+    <option name="totallyTimeSpent" value="12181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -245,44 +525,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/fit/cdrann/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/fit/cdrann/AddressValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/fit/cdrann/AddressParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/nsu/fit/cdrann/IPTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/fit/cdrann/CopyFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="20" column="54" lean-forward="true" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -299,6 +545,19 @@
     <entry file="file://$PROJECT_DIR$/log.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/fit/cdrann/AddressValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt.1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/nsu/fit/cdrann/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -306,6 +565,30 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/fit/cdrann/CopyFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="63" column="9" lean-forward="true" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/fit/cdrann/AddressParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/fit/cdrann/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
         </state>
       </provider>
     </entry>
