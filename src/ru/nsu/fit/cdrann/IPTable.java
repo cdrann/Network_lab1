@@ -3,6 +3,7 @@ package ru.nsu.fit.cdrann;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -26,11 +27,13 @@ public class IPTable {
     }
 
     static void checkCurrIpTable(Logger logger) {
-        for (Map.Entry<String, Long> ipAndPort : currIpTable.entrySet()) {
+//        currIpTable.entrySet().removeIf()
+        for (Iterator<Map.Entry<String, Long>> iterator = currIpTable.entrySet().iterator(); iterator.hasNext(); ) {
+            Map.Entry<String, Long> ipAndPort = iterator.next();
             if (System.currentTimeMillis() - ipAndPort.getValue() > Constants.TABLE_TIMEOUT) {
                 logger.log(Level.INFO, "Lost connection with: " + ipAndPort.getKey());
 
-                currIpTable.remove(ipAndPort.getKey());
+                iterator.remove();
                 printCurrentIPTable();
             }
         }
